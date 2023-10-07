@@ -1,0 +1,14 @@
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\bin\Debug\net7.0\practica9-RaquelMejia.exe
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\bin\Debug\net7.0\practica9-RaquelMejia.deps.json
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\bin\Debug\net7.0\practica9-RaquelMejia.runtimeconfig.json
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\bin\Debug\net7.0\practica9-RaquelMejia.dll
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\bin\Debug\net7.0\practica9-RaquelMejia.pdb
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\practica9-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\practica9-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\practica9-RaquelMejia.AssemblyInfo.cs
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\practica9-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\practica9-RaquelMejia.dll
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\refint\practica9-RaquelMejia.dll
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\practica9-RaquelMejia.pdb
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\practica9-RaquelMejia.genruntimeconfig.cache
+C:\Users\consu\OneDrive\PRACTICA 9\practica9-RaquelMejia\obj\Debug\net7.0\ref\practica9-RaquelMejia.dll
